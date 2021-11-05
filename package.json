@@ -13,8 +13,12 @@
         "url": "git+https://github.com/LambdaSchool/node-api3-project.git"
     },
     "dependencies": {
+        "cors": "^2.8.5",
+        "epress": "*",
         "express": "^4.17.1",
+        "exprss": "*",
         "knex": "^0.95.11",
+        "morgan": "^1.10.0",
         "sqlite3": "^5.0.2"
     },
     "devDependencies": {
